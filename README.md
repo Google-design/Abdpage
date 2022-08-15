@@ -1,5 +1,5 @@
 Abdpage <br>
-<!DOCTYPE html>
+<html>
 <!-- saved from url=(0060)file:///C:/Users/abdul/OneDrive/Desktop/HTML/Imagescode.html -->
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
 <title>Abd page</title>
